@@ -1,8 +1,10 @@
 node_modules/
 
-public/Calendar-Service
-public/Media-Carousel-Service
-public/Photo-Gallery-Service
-public/Reviews-Service
-
 .env
+
+public/Calendar-Service/
+public/Media-Carousel-Service/
+public/Photo-Gallery-Service/
+public/Reviews-Service/
+
+newrelic_agent.log
